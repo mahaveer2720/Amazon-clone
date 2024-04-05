@@ -599,7 +599,7 @@ i {
   background-color: white;
   width: 380px;
   height: 100%;
-  transform: translateX(390px);
+  transform: translateX(-390px);
   transition: all 0.5s;
   position: absolute;
   z-index: 101;
